@@ -1,0 +1,55 @@
+/* src/componentes/RecipeCard/RecipeCard.module.css */
+
+.recipeCard {
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    width: 300px;
+    margin: 10px;
+    text-align: center;
+    transition: transform 0.3s ease;
+}
+
+.recipeCard:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.cardImage {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+}
+
+.cardInfo {
+    padding: 15px;
+}
+
+.cardInfo h3 {
+    color: var(--color-primary-red, #B22222); 
+    margin-bottom: 5px;
+    font-size: 1.4em;
+}
+
+.cardCategory {
+    color: #666;
+    font-size: 0.9em;
+    margin-bottom: 15px;
+}
+
+.btnViewRecipe {
+    display: inline-block;
+    background-color: var(--color-secondary-green, #006400); 
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 50px;
+    font-weight: bold;
+    transition: background-color 0.3s;
+}
+
+.btnViewRecipe:hover {
+    background-color: var(--color-primary-red, #B22222);
+}

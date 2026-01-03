@@ -1,0 +1,45 @@
+:root {
+    --color-primary-red: #B22222;
+    --color-secondary-green: #006400;
+    --color-accent-gold: #FFD700;
+    --color-light-bg: #F8F8FF;
+    --color-text-dark: #333;
+
+    --font-logo: 'Great Vibes', cursive;
+    --font-body: 'Arial', sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: var(--font-body);
+    background-color: var(--color-light-bg);
+    color: var(--color-text-dark);
+    background-image: url(/public/img/background.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+
+.app-container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.content {
+    flex-grow: 1;
+}
+
+.section-title {
+    text-align: center;
+    color: var(--color-primary-red);
+    margin: 30px 0;
+    font-size: 2em;
+    font-family: var(--font-logo);
+}

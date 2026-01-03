@@ -1,0 +1,205 @@
+[
+    {
+        "id": 1,
+        "name": "Bolo de Cenoura",
+        "category": "bolo",
+        "slug": "bolo-cenoura",
+        "ingredients": [
+            "3 cenouras médias",
+            "4 ovos",
+            "2 xícaras de açúcar",
+            "2 xícaras de farinha de trigo",
+            "1 xícara de óleo",
+            "1 colher de sopa de fermento em pó"
+        ],
+        "instructions": "Bata no liquidificador os ovos, as cenouras e o óleo. Em uma tigela, misture o açúcar e a farinha. Adicione a mistura líquida, o fermento, e mexa. Asse em forno pré-aquecido a 180°C por 40 minutos.",
+        "youtubeId": "mRij59AYQP0"
+    },
+    {
+        "id": 2,
+        "name": "Bolo de Mandioca",
+        "category": "bolo",
+        "slug": "bolo-mandioca",
+        "ingredients": [
+            "1 kg de mandioca ralada",
+            "200ml de leite de coco",
+            "3 ovos",
+            "2 xícaras de açúcar",
+            "1 colher de sopa de manteiga",
+            "1/2 xícara de farinha de trigo"
+        ],
+        "instructions": "Misture todos os ingredientes até obter uma massa homogênea. Despeje em forma untada e enfarinhada. Asse em forno médio (200°C) por cerca de 1 hora. Sirva frio.",
+        "youtubeId": "Fn0hwavz_Qw"
+    },
+    {
+        "id": 3,
+        "name": "Torta Massa Sablée",
+        "category": "bolo",
+        "slug": "torta-massa-sablee",
+        "ingredients": [
+            "250g de farinha",
+            "125g de manteiga gelada",
+            "80g de açúcar",
+            "1 ovo",
+            "Creme de confeiteiro e frutas para recheio"
+        ],
+        "instructions": "Misture os ingredientes da massa, amasse rapidamente e leve à geladeira por 30 minutos. Abra a massa em forma, asse em forno pré-aquecido. Recheie com creme e decore com frutas.",
+        "youtubeId": "ytIwrB_x4Bk"
+    },
+    {
+        "id": 4,
+        "name": "Pudim de Leite Condensado",
+        "category": "bolo",
+        "slug": "pudim-leite-condensado",
+        "ingredients": [
+            "1 lata de leite condensado",
+            "1 lata de leite (medida do leite condensado)",
+            "3 ovos",
+            "Calda de caramelo"
+        ],
+        "instructions": "Bata os ingredientes no liquidificador. Despeje sobre a calda de caramelo em forma de pudim. Asse em banho-maria em forno médio por cerca de 1 hora. Desenforme frio.",
+        "youtubeId": "cxawU3hwVfE"
+    },
+    {
+        "id": 5,
+        "name": "Pudim de Chocolate",
+        "category": "bolo",
+        "slug": "pudim-chocolate",
+        "ingredients": [
+            "1 lata de leite condensado",
+            "1 lata de creme de leite",
+            "1/2 xícara de chocolate em pó",
+            "1 envelope de gelatina sem sabor"
+        ],
+        "instructions": "Dissolva a gelatina conforme as instruções. Bata todos os ingredientes no liquidificador. Despeje em forma untada e leve à geladeira por 4 horas. Sirva com raspas de chocolate.",
+        "youtubeId": "qtMsgYCvF9Q"
+    },
+    {
+        "id": 6,
+        "name": "Torta de Maçã",
+        "category": "bolo",
+        "slug": "torta-maca",
+        "ingredients": [
+            "Massa pronta para torta",
+            "4 maçãs",
+            "1/2 xícara de açúcar",
+            "1 colher de chá de canela",
+            "Suco de 1 limão"
+        ],
+        "instructions": "Misture as maçãs picadas com açúcar, canela e limão. Recheie a massa da torta. Cubra com tiras da massa. Asse em forno pré-aquecido a 180°C até dourar.",
+        "youtubeId": "ySDoOpg1shA"
+    },
+    {
+        "id": 7,
+        "name": "Torta de Morango",
+        "category": "bolo",
+        "slug": "torta-morango",
+        "ingredients": [
+            "Massa de biscoito",
+            "Creme de confeiteiro",
+            "Morangos frescos",
+            "Geleia de brilho"
+        ],
+        "instructions": "Forre a forma com a massa de biscoito. Recheie com o creme de confeiteiro. Cubra com morangos e pincele com a geleia de brilho. Leve à geladeira antes de servir.",
+        "youtubeId": "uc01rGNcyoQ"
+    },
+    {
+        "id": 8,
+        "name": "Coxinha de Frango",
+        "category": "salgado",
+        "slug": "coxinha-frango",
+        "ingredients": [
+            "500g de peito de frango cozido e desfiado",
+            "Caldo do cozimento do frango",
+            "Farinha de trigo",
+            "Manteiga",
+            "Temperos a gosto"
+        ],
+        "instructions": "Prepare a massa usando o caldo do frango, água e farinha. Enrole com o recheio de frango desfiado, modele em formato de coxinha. Empane em farinha de rosca e frite.",
+        "youtubeId": "Qu-E0TDGSoQ"
+    },
+    {
+        "id": 9,
+        "name": "Esfirra Aberta de Carne",
+        "category": "salgado",
+        "slug": "esfirra-carne",
+        "ingredients": [
+            "Massa de pão",
+            "500g de carne moída",
+            "Cebola picada",
+            "Tomate picado",
+            "Limão, sal e pimenta síria"
+        ],
+        "instructions": "Misture a carne com os temperos e o limão. Abra a massa em pequenos discos. Coloque o recheio no centro. Asse em forno alto até a massa dourar e a carne cozinhar.",
+        "youtubeId": "d9Gua_18Pqw"
+    },
+    {
+        "id": 10,
+        "name": "Pizza Brotinho",
+        "category": "salgado",
+        "slug": "pizza-brotinho",
+        "ingredients": [
+            "Massa de pizza",
+            "Molho de tomate",
+            "Queijo mussarela",
+            "Recheios a gosto (presunto, calabresa, etc.)"
+        ],
+        "instructions": "Abra a massa em pequenos discos. Espalhe o molho, o queijo e o recheio escolhido. Leve ao forno pré-aquecido para derreter o queijo e a massa assar.",
+        "youtubeId": "xerZd742NNA"
+    },
+    {
+        "id": 11,
+        "name": "Ovo Coberto",
+        "category": "salgado",
+        "slug": "ovo-coberto",
+        "ingredients": [
+            "Ovos de codorna cozidos",
+            "Massa de coxinha ou quibe",
+            "Farinha de rosca para empanar",
+            "Óleo para fritar"
+        ],
+        "instructions": "Envolva os ovos de codorna na massa. Empane em farinha de rosca. Frite em óleo quente até dourar. Sirva quente.",
+        "youtubeId": "aSU6XG3FJ7Q"
+    },
+    {
+        "id": 12,
+        "name": "Enroladinho de Salsicha",
+        "category": "salgado",
+        "slug": "enroladinho-salsicha",
+        "ingredients": [
+            "Massa de pão ou massa semi-folhada",
+            "Salsicha",
+            "Molho de tomate ou mostarda"
+        ],
+        "instructions": "Enrole a salsicha na massa. Pincele com gema de ovo. Asse em forno médio (180°C) até a massa dourar.",
+        "youtubeId": "1PYD1-JPMN4"
+    },
+    {
+        "id": 13,
+        "name": "Salgado de Queijo",
+        "category": "salgado",
+        "slug": "salgado-queijo",
+        "ingredients": [
+            "Massa de batata ou farinha de trigo",
+            "Queijo muçarela em cubos ou ralado",
+            "Parmesão (para a massa)",
+            "Óleo para fritar"
+        ],
+        "instructions": "Prepare a massa. Recheie com o queijo. Frite em óleo quente até ficar dourado e crocante.",
+        "youtubeId": "3_PE7b4MpKA"
+    },
+    {
+        "id": 14,
+        "name": "Pastel de Carne",
+        "category": "salgado",
+        "slug": "pastel-carne",
+        "ingredients": [
+            "Massa de pastel pronta",
+            "Carne moída refogada e temperada",
+            "Azeitonas picadas (opcional)",
+            "Óleo para fritar"
+        ],
+        "instructions": "Recheie as massas de pastel com a carne moída. Dobre e feche as bordas. Frite em óleo quente até ficar crocante. Sirva imediatamente.",
+        "youtubeId": "YH5mceVPD40"
+    }
+]

@@ -1,0 +1,15 @@
+/* src/componentes/Footer/Footer.module.css */
+
+.mainFooter {
+    background-color: var(--color-secondary-green); /* Verde Escuro Natalino */
+    color: white;
+    text-align: center;
+    padding: 25px;
+    border-top: 3px solid var(--color-accent-gold); /* Detalhe Dourado */
+    font-size: 0.9em;
+    width: 100%;
+}
+
+.footerText {
+    margin: 0;
+}

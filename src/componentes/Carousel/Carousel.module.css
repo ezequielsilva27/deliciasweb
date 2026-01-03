@@ -1,0 +1,77 @@
+/* src/componentes/Carousel/Carousel.module.css */
+
+.carouselWrapper {
+    position: relative;
+    overflow: hidden;
+    width: 90%;
+    max-width: 1200px;
+    margin: 40px auto;
+    border: 5px solid var(--color-primary-red, #B22222);
+    border-radius: 10px;
+    background: #fff;
+    height: 600px;
+    
+}
+
+.carouselContent {
+    display: flex;
+    transition: transform 1.5s ease-in-out; 
+    width: 100%; 
+}
+
+.carouselSlide {
+    flex-shrink: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    height: 500px;
+}
+
+.carouselDots {
+    text-align: center;
+    padding: 10px 0;
+}
+
+.dot {
+    height: 12px;
+    width: 12px;
+    margin: 0 4px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    transition: background-color 0.6s ease;
+}
+
+.dot.active {
+    background-color: var(--color-secondary-green, #006400);
+}
+
+.navButton {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    border: none;
+    font-size: 2rem;
+    padding: 8px 14px;
+    cursor: pointer;
+    z-index: 10;
+    border-radius: 100%;
+    transition: background 0.3s ease;
+}
+
+.prev {
+    left: 10px;
+}
+
+.next {
+    right: 10px;
+}
+
+.navButton:hover {
+    background: rgba(0, 0, 0, 0.8);
+}
